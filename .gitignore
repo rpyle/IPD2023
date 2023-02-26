@@ -1,0 +1,7 @@
+*.txt
+*.pyc
+*.replit
+replit.nix
+main.py
+**/venv
+**/__pycache__
