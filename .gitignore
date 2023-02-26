@@ -3,5 +3,5 @@
 *.replit
 replit.nix
 main.py
-**/venv
+venv/**
 **/__pycache__
